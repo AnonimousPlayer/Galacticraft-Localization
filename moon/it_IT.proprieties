@@ -1,0 +1,28 @@
+# Galacticraft Moon Language File = ITALIANO (Italia)
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=Ferro di Meteora grezzo
+item.meteoricIronIngot.name=Lingotto di Ferro di Meteora 
+
+# FOOD
+item.cheeseCurd.name=Cagliata Grezza
+item.cheeseBlock.name=Cagliata 
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=Roccia
+tile.moonBlock.moondirt.name=Terra
+tile.moonBlock.moongrass.name=Superfice Lunare
+tile.moonBlock.tinmoon.name=Stanio Grezzo
+tile.moonBlock.coppermoon.name=Rame Grezzo
+tile.moonBlock.cheesestone.name=Cagliata Grezza
+tile.moonBlock.bricks.name=Mattoni
+tile.cheeseBlock.name=Blocco di formaggio
+
+# GUI
+gui.choosePlanet.desc.moon=Abitabile#No Ossigeno#Gravità: 18%
+
+itemGroup.GalacticraftMoon=Luna di Galacricraft
